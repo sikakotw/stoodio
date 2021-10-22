@@ -1,0 +1,17 @@
+Changelog version 1.2.2
+- Add total inject
+- Add Wipe Cache
+- Add more themes dan delete old themes
+- Delete junk files
+- Fix sime bugs
+Changelog version 1.2
+- Semi AGC
+- Support Nginx
+- Ajax loader search
+- Spintax
+- Widget Playlist
+- Move downloader into theme
+- Add more themes
+- Fix some bugs
+Changelog version 1.0
+- Release

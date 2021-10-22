@@ -1,0 +1,1 @@
+<footer><div class="footer"><a href="#">About</a><a href="#">Privacy Policy</a></div><?php echo str_replace( [ '%year%', '%site_name%' ], [ date( 'Y' ), get_option( 'site_name' ) ], get_option( 'footer_copyright' ) ); ?></footer></body></html>
